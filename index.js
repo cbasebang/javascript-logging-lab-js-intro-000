@@ -1,1 +1,1 @@
-console.error("HAPPY")
+console.warn('i will like it hot')
