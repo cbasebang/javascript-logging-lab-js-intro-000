@@ -1,1 +1,1 @@
-console.log("i will like it")
+console.warn("i will like it hot")
