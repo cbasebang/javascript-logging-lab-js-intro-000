@@ -1,1 +1,1 @@
-console.error('i will like it')
+console.log("i will like it")
